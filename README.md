@@ -4,7 +4,7 @@
 **My Certification** : 
 
 
-<img width="50%" height="50%" src="./TensorFlow.png" />
+<img width="60%" height="60%" src="./TensorFlow.png" />
 
 ## Course 1: Introduction to TensorFlow for AI, ML and DL
 

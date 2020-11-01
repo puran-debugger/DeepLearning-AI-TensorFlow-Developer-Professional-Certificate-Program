@@ -2,12 +2,9 @@
  Use the necessary tools to build scalable AI-powered applications with TensorFlow
  
 **My Certification** : 
-<div align=center>
-<img width="50%" height="50%" src=“../TensorFlow.png”/>
-</div>
 
-![](TensorFlow.png)
 
+<img width="50%" height="50%" src="./TensorFlow.png" />
 
 ## Course 1: Introduction to TensorFlow for AI, ML and DL
 

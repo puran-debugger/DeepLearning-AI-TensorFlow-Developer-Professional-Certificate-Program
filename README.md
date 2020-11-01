@@ -1,7 +1,7 @@
 # DeepLearning.AI TensorFlow Developer Professional Certificate 
  Use the necessary tools to build scalable AI-powered applications with TensorFlow
  
-**My Certification** : 
+**My Certification** : ![TensorFlow](https://www.coursera.org/account/accomplishments/specialization/certificate/KRS7WSQCYZWA)
 
 ## Course 1: Introduction to TensorFlow for AI, ML and DL
 
